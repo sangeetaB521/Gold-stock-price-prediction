@@ -1,15 +1,15 @@
-# Gold Price Analysis & Prediction
+# GOLD PRICE ANALYSIS AND PREDICTION
 
-## Overview
+## OVERVIEW
 This project analyzes historical gold price data to extract trends and forecast future prices using **Prophet**, a powerful time-series forecasting model.
 
-## Features
+## FEATURES
 - Cleans and preprocesses historical gold price data.
 - Visualizes key trends using **Matplotlib**.
 - Predicts future prices using the **Prophet** time-series model.
 - Observes patterns influenced by market days and cultural events.
 
-## Dependencies
+## DEPENDENCIES
 ### Required Packages
 To run this project, install the necessary dependencies:
 - **pandas**
@@ -17,7 +17,7 @@ To run this project, install the necessary dependencies:
 - **matplotlib**
 - **prophet**
 
-## Installation & Usage
+## INSTALLATIONS AND USAGES
 ### Clone the Repository
 - Clone the repository from GitHub and navigate to the directory.
 
@@ -38,7 +38,7 @@ Execute the analysis and forecasting script.
 - **Historical Trends & Price Distributions**
 - **Prophet-based Forecasts & Seasonal Patterns**
 
-## License
+## LICENSE
 This project is open-source. Feel free to use or modify it as needed.
 
 
