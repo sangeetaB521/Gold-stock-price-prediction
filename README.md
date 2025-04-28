@@ -11,18 +11,6 @@ To run this notebook, you need to have the following Python libraries installed:
 - `matplotlib`
 - `prophet`
 
-You can install the required libraries using the following:
-
-```bash
-pip install pandas numpy matplotlib prophet
-
-
-
-#### 4. **Usage Instructions**
-Describe how to use the code in the repository. You can include how to run the notebook or any other setup steps.
-```markdown
-## Usage
-
 ### 1. Load the Data
 
 The gold price data is loaded from a CSV file. Make sure the `Gold Price.csv` file is in the appropriate location or update the file path in the code.
